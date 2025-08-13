@@ -1,0 +1,17 @@
+gh auth login
+gh repo create my-new-repo --public --description "My new repo created via CLI"
+
+You can also use flags:
+--private for a private repo
+--clone to clone it locally
+--source . to push current directory
+
+git init
+git status
+git add "filename" 
+git commit -m "bjhk" 
+git branch
+git checkout -b main
+git remote add origin "url"
+git pull origin main
+git push origin main
