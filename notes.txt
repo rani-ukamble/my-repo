@@ -5,6 +5,7 @@ You can also use flags:
 --private for a private repo
 --clone to clone it locally
 --source . to push current directory
+********************************************************
 
 git init
 git status
